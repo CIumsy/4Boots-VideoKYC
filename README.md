@@ -6,9 +6,6 @@
 # Setup Steps
 - pip install -r requirements.txt
 - pip install "fastapi[all]"
-- sudo apt update
-- sudo apt install tesseract-ocr
-- sudo apt install libtesseract-dev
 
 # Running services
 ## API service
